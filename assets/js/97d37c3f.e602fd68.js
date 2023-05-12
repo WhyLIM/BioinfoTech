@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbioinfotech=self.webpackChunkbioinfotech||[]).push([[9489],{4097:o=>{o.exports=JSON.parse('{"permalink":"/BioinfoTech/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

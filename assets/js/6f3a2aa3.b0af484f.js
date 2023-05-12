@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbioinfotech=self.webpackChunkbioinfotech||[]).push([[290],{1971:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/BioinfoTech/blog/tags/hello","allTagsPath":"/BioinfoTech/blog/tags","count":2}')}}]);
